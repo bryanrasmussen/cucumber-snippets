@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+		<![CDATA[Then /^${1:stepname} "${2:regex}"\$/ do |${3:var}|
+	$0
+end
+		]]>
+	</content>
+	<tabTrigger>cthenr</tabTrigger>	
+	<scope>source.ruby</scope>
+	<description>regex then cucumber step</description>
+</snippet>

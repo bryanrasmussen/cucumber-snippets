@@ -1,0 +1,13 @@
+<snippet>
+	<content>
+		<![CDATA[
+	Scenario: ${1:Action}
+		Given I ${2:stepname}
+		When I ${3:stepname}
+		Then I ${4:stepname}
+		]]>
+	</content>
+	<tabTrigger>cscen</tabTrigger>	
+	<scope>text.gherkin.feature</scope>
+	<description>simple cucumber scenario</description>
+</snippet>

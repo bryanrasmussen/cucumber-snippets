@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+		<![CDATA[When /^${1:stepname} "${2:regex}"\$/ do |${3:var}|
+	$0
+end
+		]]>
+	</content>
+	<tabTrigger>cwhenr</tabTrigger>	
+	<scope>source.ruby</scope>
+	<description>regex when cucumber step</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+		<![CDATA[Given /^${1:stepname}\$/ do
+	$0
+end
+		]]>
+	</content>
+	<tabTrigger>cgiven</tabTrigger>	
+	<scope>source.ruby</scope>
+	<description>simple given cucumber step</description>
+</snippet>

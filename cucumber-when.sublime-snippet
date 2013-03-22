@@ -1,0 +1,11 @@
+<snippet>
+	<content>
+		<![CDATA[When /^${1:stepname}\$/ do
+	$0
+end
+		]]>
+	</content>
+	<tabTrigger>cwhen</tabTrigger>	
+	<scope>source.ruby</scope>
+	<description>simple when cucumber step</description>
+</snippet>
