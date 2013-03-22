@@ -3,9 +3,9 @@ Cucumber snippets for Sublime Text
 
 ## How to get ##
 
- 1. Go to Packages/User
- 2. git clone git@github.com:verybigman/cucumber-snippets.git
- 3. Be happy!
+    git clone git@github.com:verybigman/cucumber-snippets.git
+    
+to Packages/User in Sublime Text directory and be happy!
 
 ## How to use ##
 
